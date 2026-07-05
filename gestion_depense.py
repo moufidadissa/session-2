@@ -85,7 +85,7 @@ def supprimer_depense(index):
 
     print("Dépense supprimée.")
 
-# système de lecture des commandes terminal
+# système de lecture utulisateur des commandes terminal
 def construire_parser():
     parser = argparse.ArgumentParser()
    # Sous-commandes du programme
